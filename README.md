@@ -48,9 +48,13 @@ Code and data for the article Jakhmola A., Jewell J., Vinichenko V., Cherp A. (2
 
 **figure_sup4.R** – code for hindcasting using different PROLONG model variants and plotting projection performance vis-a-vis out-of-sample empirical data (replication of Supplementary Figure 4);
 
+**figure_sup6.R** – code for plotting the projections from hindcasting using PROLONG and a bottom-up approach aggregating logistic extrapolations for individual countries (replication of Supplementary Figure 6);
+
 **hindcasting_out_of_sample_simulations.R** – code for hindcasting using PROLONG and plotting projection performance vis-a-vis out-of-sample, simulated test data (replication of Supplementary Figures 2 and 3);
 
 **uncertainity_quantification.R** – code for hindcasting and uncertainty quantification for PROLONG (replication of Supplementary Figure 7);
+
+**other_data_driven_projections.R** – code for making projections using other data-driven methods
 
 
 
@@ -70,6 +74,8 @@ Code and data for the article Jakhmola A., Jewell J., Vinichenko V., Cherp A. (2
 **ed8_XXX.csv** – source data for Extended Data Figure 8;
 
 **sf4_XXX.csv** – source data for Supplementary Figure 4;
+
+**sf6_XXX.csv** – source data for Supplementary Figure 6;
 
 **counterfactual_trajectories_w_baseline.csv** – time series with Early and Late acceleration scenarios for onshore wind and solar PV plus the Baseline scenarios;
 
