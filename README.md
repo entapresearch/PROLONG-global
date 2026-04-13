@@ -30,31 +30,31 @@ The projections generated in this article can be explored using an interactive w
 
 **regional_allocation_algorithm.R** – code for allocating growth in our stylised counterfactual scenarios to different world regions;
 
-**regional_scenarios_wind.R** – code for deriving regionally-differentiated deployment trajectories for onshore wind (also used for Figure 6);
+**regional_scenarios_wind.R** – code for deriving regionally-differentiated deployment trajectories for onshore wind (also used for Extended Data Figure 9);
 
-**regional_scenarios_solar.R** – code for deriving regionally-differentiated deployment trajectories for solar PV (also used for Figure 6);
+**regional_scenarios_solar.R** – code for deriving regionally-differentiated deployment trajectories for solar PV (also used for Extended Data Figure 9);
 
 **figure2.R** – code for producing an illustration of different growth patterns for onshore wind and solar PV (replication of Figure 2);
 
 **figure4.R** – code for hindcasting projections made using PROLONG and other projections (replication of Figure 4);
 
-**figure5.R** – code for plotting projections made using PROLONG, counterfactual scenarios and IPCC AR6 scenario summaries (replication of Figure 5, and Extended Data Figure 9);
+**figure5.R** – code for plotting projections made using PROLONG, counterfactual scenarios and IPCC AR6 scenario summaries (replication of Figure 5, and Extended Data Figure 8);
 
 **figure_ed1.R** – code for plotting global and national takeoff thresholds for onshore wind, solar PV, CCGTs and mobiles (replication of Extended Data Figure 1);
 
 **figure_ed2.R** – code for plotting the diffusion of technologies across countries and growth phases (replication of Extended Data Figure 2);
 
-**figure_ed8.R** – code for hindcasting projections made using PROLONG from 2014 and 2018 against IPCC AR5 and SR1.5°C scenarios (replication of Extended Data Figure 8);
+**figure_ed7.R** – code for hindcasting projections made using PROLONG from 2014 and 2018 against IPCC AR5 and SR1.5°C scenarios (replication of Extended Data Figure 7);
 
-**hindcasting_different_models.R** – code for hindcasting using PROLONG and other data-driven models and plotting projection performance vis-a-vis out-of-sample empirical data (replication of Extended Data Figure 7, Supplementary Figure 5);
+**hindcasting_different_models.R** – code for hindcasting using PROLONG and other data-driven models and plotting projection performance vis-a-vis out-of-sample empirical data (replication of Extended Data Figure 6, Supplementary Figure 6);
 
-**figure_sup4.R** – code for hindcasting using different PROLONG model variants and plotting projection performance vis-a-vis out-of-sample empirical data (replication of Supplementary Figure 4);
+**figure_sup5.R** – code for hindcasting using different PROLONG model variants and plotting projection performance vis-a-vis out-of-sample empirical data (replication of Supplementary Figure 5);
 
-**figure_sup6.R** – code for plotting the projections from hindcasting using PROLONG and a bottom-up approach aggregating logistic extrapolations for individual countries (replication of Supplementary Figure 6);
+**figure_sup7.R** – code for plotting the projections from hindcasting using PROLONG and a bottom-up approach aggregating logistic extrapolations for individual countries (replication of Supplementary Figure 7);
 
-**hindcasting_out_of_sample_simulations.R** – code for hindcasting using PROLONG and plotting projection performance vis-a-vis out-of-sample, simulated test data (replication of Supplementary Figures 2 and 3);
+**hindcasting_out_of_sample_simulations.R** – code for hindcasting using PROLONG and plotting projection performance vis-a-vis out-of-sample, simulated test data (replication of Supplementary Figures 3 and 4);
 
-**uncertainity_quantification.R** – code for hindcasting and uncertainty quantification for PROLONG (replication of Supplementary Figure 7);
+**uncertainity_quantification.R** – code for hindcasting and uncertainty quantification for PROLONG (replication of Supplementary Figure 8);
 
 **other_data_driven_projections.R** – code for making projections using other data-driven methods
 
@@ -73,11 +73,11 @@ The projections generated in this article can be explored using an interactive w
 
 **ed2_XXX.csv** – source data for Extended Data Figure 2;
 
-**ed8_XXX.csv** – source data for Extended Data Figure 8;
+**ed7_XXX.csv** – source data for Extended Data Figure 7;
 
-**sf4_XXX.csv** – source data for Supplementary Figure 4;
+**sf5_XXX.csv** – source data for Supplementary Figure 5;
 
-**sf6_XXX.csv** – source data for Supplementary Figure 6;
+**sf7_XXX.csv** – source data for Supplementary Figure 7;
 
 **counterfactual_trajectories_w_baseline.csv** – time series with Early and Late acceleration scenarios for onshore wind and solar PV plus the Baseline scenarios;
 
