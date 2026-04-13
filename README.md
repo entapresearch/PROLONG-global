@@ -1,6 +1,8 @@
 # PROLONG-global
 Code and data for the article Jakhmola A., Jewell J., Vinichenko V., Cherp A. (2026). Probabilistic projections of global wind and solar power growth based on historical national experience. 
 
+The projections generated in this article can be explored using an interactive web app: https://entap.net/prolong-interactive/
+
 ### Notes
 * Each R file provided can run standalone, provided that the working directory is set to the folder containing the supplementary files. 
 * Each R script is designed to handle all package dependencies, load the data, and run the analysis pipeline.  
